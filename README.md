@@ -1,10 +1,10 @@
-**Project Name: FTP GUI**
+#**Project Name: FTP GUI**
 
-**Description:**
+##**Description:**
 
 The FTP GUI project is a versatile file transfer application that enables users to securely exchange files over a network using the File Transfer Protocol (FTP). This project offers server and client functionalities, allowing users to establish connections, and upload, download, and manage files seamlessly.
 
-**Key Features:**
+##**Key Features:**
 
 1) Server and Client Capabilities: The application supports both server and client modes, enabling users to set up their own FTP server or connect to existing servers.
 
@@ -20,7 +20,7 @@ The FTP GUI project is a versatile file transfer application that enables users 
 
 7) Customizable Settings: Users have the option to customize server configurations, network settings, and user permissions according to their specific requirements.
 
-**Usage:**
+##**Usage:**
 
 1) Setting Up the Server: Users can configure the FTP server by specifying host settings, port numbers, and access permissions.
 
@@ -30,7 +30,7 @@ The FTP GUI project is a versatile file transfer application that enables users 
 
 4) Managing Files: Users can perform various file management tasks such as renaming, deleting, moving, and organizing files and directories within the FTP server environment.
 
-**Requirements:**
+##**Requirements:**
 
 1) Python 3.x
 2) Tkinter
@@ -44,34 +44,35 @@ The FTP GUI project is a versatile file transfer application that enables users 
 10) socket
 11) itertools
 
-**Clone the repository:**
+##**Clone the repository:**
+
 git clone https://github.com/AyhamAsfoor/FTP-GUI.git
 
 **Install the required dependencies:**
 
 pip install -r requirements.txt
 
-**Screenshots:**
-**- Client Side (Dark Mode):**
+##**Screenshots:**
+###**- Client Side (Dark Mode):**
 ![GUI-1](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/3508fb38-24d1-4e29-af5c-985158dc2095)
 ![GUI-2](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/01b01bd5-2cb5-4191-af12-135399e5f8f5)
 ![GUI-3](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/64ba111a-43e6-441e-ac82-84af7baf4269)
 ![GUI-4](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/536b64a9-ad0f-4988-b276-be209c95f82b)
-**- Client Side (Light Mode):**
+###**- Client Side (Light Mode):**
 ![GUI-11](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/35e88058-6026-4086-b3e8-5c64ded157cf)
 ![GUI-12](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/de69898f-76ec-4d5b-be65-97ddf616438b)
 ![GUI-13](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/b639b267-277c-41b8-91ee-35f905bed64e)
 ![GUI-14](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/fcf9ac6e-52f1-4adf-81f4-c2d4d377fd58)
-**- Server Side:**
+###**- Server Side:**
 ![GUI-S1](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/96ef453d-8373-4f2c-b152-b98b0736770e)
 
 
 
 
-**License:**
+##**License:**
 
 This project is open-source and released under the Apache License 2.0. Users should review the license terms before using or modifying the software. The Apache License 2.0 provides users with the freedom to use, modify, distribute, and sublicense the software, while also providing patent protection and requiring contributors to maintain copyright notices. For more details, please refer to the LICENSE file included with the project or visit the Apache License 2.0 website.
 
-**Feedback:**
+##**Feedback:**
 
 Feedback and suggestions for improving the project are highly appreciated. Users can provide feedback, report issues, or request new features via the project's issue tracker on GitHub.
