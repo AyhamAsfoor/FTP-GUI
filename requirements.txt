@@ -1,0 +1,11 @@
+Python 3.x
+Tkinter
+tqdm
+web-browser
+pillow
+tkinter
+customtkinter
+threading
+os
+socket
+itertools
