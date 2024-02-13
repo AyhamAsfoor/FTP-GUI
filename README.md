@@ -45,13 +45,13 @@ The FTP GUI project is a versatile file transfer application that enables users 
 11) itertools
 
 ##**Clone the repository:**
-
+```
 git clone https://github.com/AyhamAsfoor/FTP-GUI.git
-
+```
 **Install the required dependencies:**
-
+```
 pip install -r requirements.txt
-
+```
 ##**Screenshots:**
 ###**- Client Side (Dark Mode):**
 ![GUI-1](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/3508fb38-24d1-4e29-af5c-985158dc2095)
@@ -65,9 +65,6 @@ pip install -r requirements.txt
 ![GUI-14](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/fcf9ac6e-52f1-4adf-81f4-c2d4d377fd58)
 ###**- Server Side:**
 ![GUI-S1](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/96ef453d-8373-4f2c-b152-b98b0736770e)
-
-
-
 
 ##**License:**
 
