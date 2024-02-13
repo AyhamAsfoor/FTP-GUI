@@ -45,7 +45,7 @@ The FTP GUI project is a versatile file transfer application that enables users 
 11) itertools
 
 **Clone the repository:**
-git clone https://github.com/your_username/FTP-GUI.git
+git clone https://github.com/AyhamAsfoor/FTP-GUI.git
 
 **Install the required dependencies:**
 
