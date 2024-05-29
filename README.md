@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ![GUI-S1](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/96ef453d-8373-4f2c-b152-b98b0736770e)
 
 > [!TIP]
-> Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
+> Follow the instructions in the How to Use section of the README to install dependencies and execute the FTP-GUI.
 
 >[!IMPORTANT]
 > If you have any issues, please don't be shy to get in touch with me, Feedback and suggestions for improving the project are highly appreciated
