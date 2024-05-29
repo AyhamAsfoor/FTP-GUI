@@ -1,5 +1,8 @@
 # **FTP GUI Project**
-
+[![License](https://img.shields.io/github/license/AyhamAsfoor/FTP-GUI?logo=Github)](https://github.com/AyhamAsfoor/FTP-GUI/blob/main/LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/AyhamAsfoor/FTP-GUI?logo=github)](https://github.com/AyhamAsfoor/FTP-GUI)
+[![Code Size](https://img.shields.io/github/languages/code-size/AyhamAsfoor/FTP-GUI?logo=github)](https://github.com/AyhamAsfoor/FTP-GUI)
+[![GitHub issues](https://img.shields.io/github/issues/AyhamAsfoor/FTP-GUI?logo=github)](https://github.com/AyhamAsfoor/FTP-GUI/issues)
 ## **Description:**
 
 The FTP GUI project is a versatile file transfer application that enables users to securely exchange files over a network using the File Transfer Protocol (FTP). This project offers server and client functionalities, allowing users to establish connections, and upload, download, and manage files seamlessly.
