@@ -70,10 +70,12 @@ pip install -r requirements.txt
 ### **- Server Side:**
 ![GUI-S1](https://github.com/AyhamAsfoor/FTP-GUI/assets/126945679/96ef453d-8373-4f2c-b152-b98b0736770e)
 
+> [!TIP]
+> Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
+
+>[!IMPORTANT]
+> If you have any issues, please don't be shy to get in touch with me, Feedback and suggestions for improving the project are highly appreciated
+
 ### **License:**
 
 This project is open-source and released under the Apache License 2.0. Users should review the license terms before using or modifying the software. The Apache License 2.0 provides users with the freedom to use, modify, distribute, and sublicense the software, while also providing patent protection and requiring contributors to maintain copyright notices. For more details, please refer to the LICENSE file included with the project or visit the Apache License 2.0 website.
-
-### **Feedback:**
-
-Feedback and suggestions for improving the project are highly appreciated. Users can provide feedback, report issues, or request new features via the project's issue tracker on GitHub.
