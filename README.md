@@ -79,3 +79,6 @@ pip install -r requirements.txt
 ### **License:**
 
 This project is open-source and released under the Apache License 2.0. Users should review the license terms before using or modifying the software. The Apache License 2.0 provides users with the freedom to use, modify, distribute, and sublicense the software, while also providing patent protection and requiring contributors to maintain copyright notices. For more details, please refer to the LICENSE file included with the project or visit the Apache License 2.0 website.
+
+### Support Us 🥤:
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/ayhamasfoor)
